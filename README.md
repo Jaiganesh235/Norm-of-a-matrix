@@ -50,5 +50,5 @@ print(norm)
 ![Screenshot (90)](https://github.com/Jaiganesh235/Norm-of-a-matrix/assets/118657189/08eddefa-1723-4b44-bbce-eeb7b2df5529)
 
 
-## Result
+## Result:
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
